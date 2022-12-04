@@ -1,4 +1,6 @@
 console.log('abc')
+
+$notify('主标题1', '副标题2', '内容3')
 /**
  *
  * var body = $response.body;
